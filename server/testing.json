@@ -1,0 +1,142 @@
+{
+    "livingroom":[
+        {
+          "namatrip": "San rise",
+          "negara":"Venezuela",
+          "gambar": "https://hmp.me/dc21",
+          "gambar1": "https://hmp.me/dc2t",
+          "gambar2": "https://hmp.me/dc20",
+          "tanggalmulai": 1600214400000,
+          "tanggalberakhir": 1600300800000,
+          "harga": "500",
+          "bed":4,
+          "bathroom":3,
+          "refrigerator":2,
+          "tv":5,
+          "deskripsi": "lorem ipsum ipsum lorem loreman lololorereremman",
+          "id": 1
+          
+        },
+        {
+          "namatrip": "Osaka",
+          "negara":"Japan",
+          "gambar": "https://hmp.me/dc22",
+          "gambar1": "https://hmp.me/dc2u",
+          "gambar2": "https://hmp.me/dc2z",
+          "tanggalmulai": 1600214400000,
+          "tanggalberakhir": 1600300800000,
+          "harga": "500",
+          "bed":4,
+          "bathroom":3,
+          "refrigerator":2,
+          "tv":5,
+          "deskripsi": "lorem ipsum ipsum lorem loreman lololorereremman",
+          "id": 2
+          
+        },
+        {
+          "namatrip": "Tokyo",
+          "negara":"Japan",
+          "gambar": "https://hmp.me/dc23",
+          "gambar1": "https://hmp.me/dc2v",
+          "gambar2": "https://hmp.me/dc2y",
+          "tanggalmulai": 1600214400000,
+          "tanggalberakhir": 1600300800000,
+          "harga": "500",
+          "bed":4,
+          "bathroom":3,
+          "refrigerator":2,
+          "tv":5,
+          "deskripsi": "lorem ipsum ipsum lorem loreman lololorereremman",
+          "id": 3
+          
+        },
+        {
+          "namatrip": "Fukuoka",
+          "negara":"Japan",
+          "gambar": "https://hmp.me/dc24",
+          "gambar1": "https://hmp.me/dc2w",
+          "gambar2": "https://hmp.me/dc2x",
+          "tanggalmulai": 1600214400000,
+          "tanggalberakhir": 1600300800000,
+          "harga": "500",
+          "bed":4,
+          "bathroom":3,
+          "refrigerator":2,
+          "tv":5,
+          "deskripsi": "lorem ipsum ipsum lorem loreman lololorereremman",
+          "id": 4
+          
+        }
+      ],
+      "kitchen":[
+        {
+          "namatrip": "San rise",
+          "negara":"Venezuela",
+          "gambar": "https://hmp.me/dc25",
+          "gambar1": "https://hmp.me/dc2t",
+          "gambar2": "https://hmp.me/dc20",
+          "tanggalmulai": 1600214400000,
+          "tanggalberakhir": 1600300800000,
+          "harga": "500",
+          "bed":4,
+          "bathroom":3,
+          "refrigerator":2,
+          "tv":5,
+          "deskripsi": "lorem ipsum ipsum lorem loreman lololorereremman",
+          "id": 1
+          
+        },
+        {
+          "namatrip": "Osaka",
+          "negara":"Japan",
+          "gambar": "https://hmp.me/dc26",
+          "gambar1": "https://hmp.me/dc2u",
+          "gambar2": "https://hmp.me/dc2z",
+          "tanggalmulai": 1600214400000,
+          "tanggalberakhir": 1600300800000,
+          "harga": "500",
+          "bed":4,
+          "bathroom":3,
+          "refrigerator":2,
+          "tv":5,
+          "deskripsi": "lorem ipsum ipsum lorem loreman lololorereremman",
+          "id": 2
+          
+        },
+        {
+          "namatrip": "Tokyo",
+          "negara":"Japan",
+          "gambar": "https://hmp.me/dc27",
+          "gambar1": "https://hmp.me/dc2v",
+          "gambar2": "https://hmp.me/dc2y",
+          "tanggalmulai": 1600214400000,
+          "tanggalberakhir": 1600300800000,
+          "harga": "500",
+          "bed":4,
+          "bathroom":3,
+          "refrigerator":2,
+          "tv":5,
+          "deskripsi": "lorem ipsum ipsum lorem loreman lololorereremman",
+          "id": 3
+          
+        },
+        {
+          "namatrip": "Fukuoka",
+          "negara":"Japan",
+          "gambar": "https://hmp.me/dc28",
+          "gambar1": "https://hmp.me/dc2w",
+          "gambar2": "https://hmp.me/dc2x",
+          "tanggalmulai": 1600214400000,
+          "tanggalberakhir": 1600300800000,
+          "harga": "500",
+          "bed":4,
+          "bathroom":3,
+          "refrigerator":2,
+          "tv":5,
+          "deskripsi": "lorem ipsum ipsum lorem loreman lololorereremman",
+          "id": 4
+          
+        }
+      ]
+}

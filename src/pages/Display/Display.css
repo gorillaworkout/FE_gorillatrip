@@ -1,0 +1,301 @@
+.box-biggest-1{
+    /* border:1px solid pink; */
+    /* background-color:red; */
+    height:150px;
+    width:90%;
+    /* margin-left:0px; */
+    margin-left:80px;
+}
+
+.header-word{
+    margin-top:10px;
+    display:flex;
+   /* justify-content: center; */
+}
+
+.word-home Link:hover{
+    text-decoration: none;
+}
+
+.word-home p{
+    color:gray;
+    font-size:25px;
+    /* text-decoration: none; */
+}
+
+.word-details{
+    margin-left:10px;
+}
+.word-details p{
+    color:#162d5b;
+    font-size:25px;
+}
+
+.word-apartment-div{
+    /* border:2px solid red; */
+    /* background-color:red; */
+    margin-left:250px;
+}
+
+.word-apartment{
+
+}
+.word-apartment-country{
+    display: flex;
+    justify-content: center;
+    font-weight: 500;
+    font-size:23px;
+    margin-top:10px;
+}
+
+.border{
+    border:2px solid red;
+    background-color:red;
+}
+.div-display{
+    margin-top:50px;
+    /* background-color:green; */
+}
+
+.box-display-kiri{
+    /* border:1px solid pink; */
+    /* background-color:pink; */
+    /* margin-left:10px; */
+    height:500px;
+    border-top-left-radius:10px;
+    border-top-right-radius:10px;
+    border-bottom-left-radius:10px;
+    border-bottom-right-radius:10px;
+    
+}
+
+.box-picture-kiri {
+    width:65%;
+    /* background-color:red; */
+    margin-top:15px;
+    margin-bottom:5px;
+    margin-left:10px;
+}
+.box-picture-kiri img{
+    width:150%;
+    height:230px;
+    border-top-left-radius:10px;
+    border-top-right-radius:10px;
+    border-bottom-left-radius:10px;
+    border-bottom-right-radius:10px;
+}
+
+
+.box-display-kanan{
+    /* border:1px solid blue;
+    background-color:pink; */
+    /* margin-left:10px; */
+    height:500px;
+    border-top-left-radius:10px;
+    border-top-right-radius:10px;
+    border-bottom-left-radius:10px;
+    border-bottom-right-radius:10px;
+
+}
+
+
+
+
+.box-booking-kiri{
+    width:150%;
+    height:430px;
+    border-top-left-radius:10px;
+    border-top-right-radius:10px;
+    border-bottom-left-radius:10px;
+    border-bottom-right-radius:10px;
+    border:1px solid white;
+    /* background-color: red;; */
+    /* margin-left:15px; */
+}
+
+.booking-box{
+    border:2px solid gray;
+    width:80%;
+    height:420px;
+    margin-left:50px;
+    margin-top:10px;
+    border-top-left-radius:10px;
+    border-top-right-radius:10px;
+    border-bottom-left-radius:10px;
+    border-bottom-right-radius:10px;
+    display:flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    align-items: center;
+}
+
+.start-book{
+    color:#162d5b;
+    font-size:38px;
+    font-weight:700;
+    margin-top:20px;
+}
+
+.display-harga{
+    font-size:30px;
+    margin-top:-20px;
+    margin-left:-40px;
+    
+}
+.how-long{
+    color:#162d5b;
+    font-size:20px;
+    margin-left:-10px;
+    margin-top:-10px;
+    font-weight:500
+    
+}
+
+.div-night{
+    background-color: #f4f5f7;
+    width:250px;
+    margin-left:20px;
+    margin-bottom:15px;
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.pick{
+    color:#162d5b;
+    font-size:20px;
+    margin-left:-150px;
+    margin-top:-10px;
+    font-weight:500
+    
+}
+
+.date{
+    display: flex;
+    align-items:center;
+    justify-content: space-between;
+    background-color: #f4f5f7;
+    width:250px;
+    margin-top:-10px;
+    margin-left:17px;
+    
+    
+}
+.date p{
+    margin-left:-20px;
+}
+.date button{
+    background-color:#162d5b;
+    color:white;
+    font-size:20px;  
+    
+}
+
+.youwill{
+    color:#162d5b;
+    width:250px;
+    /* background-color:black; */
+    font-size:15px;
+    margin-left:17px;
+    margin-top:10px;
+    font-size:20px;
+    font-weight:500;
+}
+
+.cont-book{
+    width:250px;
+    /* background-color: red; */
+}
+.cont-book button{
+    width:250px;
+    background-color:#162d5b;
+    color:white;
+    height:40px;
+    border-top-left-radius:5px;
+    border-top-right-radius:5px;
+    border-bottom-left-radius:5px;
+    border-bottom-right-radius:5px;
+}
+
+/* BOX KIRI END */
+
+.box-booking-kanan{
+    width:150%;
+    height:500px;
+    border-top-left-radius:10px;
+    border-top-right-radius:10px;
+    border-bottom-left-radius:10px;
+    border-bottom-right-radius:10px;
+    border:1px solid white;
+    /* background-color: red;; */
+    
+}
+.box-picture-kanan{  
+    /* width:150%; */
+    width:50%;
+    height:230px;
+    border-top-left-radius:10px;
+    border-top-right-radius:10px;
+    border-bottom-left-radius:10px;
+    border-bottom-right-radius:10px;
+
+}
+.box-picture-kanan img{
+    width:200%;
+    height:475px;
+    margin-top:15px;
+    border-top-left-radius:10px;
+    border-top-right-radius:10px;
+    border-bottom-left-radius:10px;
+    border-bottom-right-radius:10px;
+   
+}
+
+.about-place{
+    /* background-color:green; */
+    margin-top:20px;
+    color:#162d5b;
+    font-size:30px;
+    
+
+}
+
+.display-kanan{
+    display:flex;
+    justify-content: center;
+    flex-direction: column;
+
+}
+
+.desc-display{
+    /* background-color:blue; */
+
+}
+
+.icons-display{
+    /* background-color:pink; */
+    display:flex;
+    font-size: 25px;
+    margin-right:5px;
+    margin-left:10px;
+    margin-top:20px;
+    /* width:50%; */
+}
+.icons-display p{
+    font-size:15px;
+}
+
+
+
+
+.box-3-besar-display{
+    width:90%;
+    height:250px;
+    margin-left:80px;
+    margin-top:50px;
+    
+}
+.box-3-besar-display h1{
+    color:#162d5b;
+    margin-left:20px;
+}
+

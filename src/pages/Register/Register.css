@@ -1,0 +1,42 @@
+.username{
+    
+    
+}
+
+.border{
+    border:3px solid pink;
+    background-color: green;
+
+}
+.box-username-2{
+    width:90%;
+    margin-left:20px;
+    margin-top:50px;
+    position: relative;
+    top:-50px;
+    color:white;
+    
+  
+}
+.box-username-2 label{
+    color:white;
+    
+}
+
+.login-div{
+    margin-top:-80px;
+    /* background-color: red; */
+    
+}
+.login-Margin{
+    /* margin-left:80px;
+    margin-top:5px; */
+}
+
+.alert{
+    margin-top:-50px;
+}
+
+.login-btn{
+    margin-top:-30px;
+}

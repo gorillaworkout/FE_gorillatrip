@@ -1,0 +1,106 @@
+.div-atas{
+    /* background-color: red; */
+    height:500px;
+    width:100%;
+    display:flex;
+
+}
+
+.div-atas-kiri{
+    /* background-color:  blue; */
+    height:550px;
+    width:30%;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-left: 50px;
+
+}
+.online-exp{
+    font-size: 50px;
+    font-weight: 700;
+
+}
+
+
+.div-atas-kanan{
+    /* background-color:  yellow; */
+    height:500px;
+    width:70%;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    padding-right:30px;
+}
+
+.stories{
+    height:200px;
+    width:150px;
+    border-radius:10px;
+    margin-bottom:20px;
+    margin-left:20px;
+    margin-right:10px;
+}
+.foto-1{
+    /* background-color: red; */
+    height:400px;
+    width:155px;
+    padding-top: 50px;
+}
+.foto-2{
+    /* background-color: pink; */
+    height:400px;
+    width:155px;
+    margin-top:-50px;
+    margin-left:20px;
+    margin-right:20px;
+   
+}
+
+.option{
+    height:100px;
+    widows: 100%;
+    padding-left: 50px;
+    padding-right: 50px;
+    /* background-color: red; */
+    margin-top:50px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.names-opt{
+    margin-right:10px;
+    /* background-color:blue; */
+    height:50px;
+    border-radius: 25px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    width:100%;
+    border:1px solid gray;
+    cursor: pointer;
+    
+}
+.names-opt:hover{
+    border:1px solid black;
+}
+.names-opt p{
+    font-size: 15px;
+    margin-top:10px;
+}
+
+
+.option-card{
+    padding-top: 50px;;
+    height:300px;
+    width:100%;
+    display:flex;
+    padding-left: 50px;
+    padding-right:50px;
+}
+
+.opt-card{
+    margin-right:25px;
+}
